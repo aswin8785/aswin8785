@@ -236,7 +236,7 @@ class AswinDasE:
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | Sri Ramakrishna Engineering College | 2020 – 2024 | CGPA: 8.06 |
-| M.E – Embedded & Real-Time Systems | PSG College of Technology | 2024 – 2026 | CGPA: 7.8 |
+| M.E – Embedded & Real-Time Systems | PSG College of Technology | 2024 – 2026 | CGPA: 8.09 |
 
 </div>
 
