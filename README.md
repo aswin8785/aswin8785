@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Systems+Developer+%7C+RTOS+%7C+Linux;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;CAN+%7C+SPI+%7C+I2C+%7C+UART+%7C+LIN+Protocols;STM32+%7C+TivaC+%7C+BeagleBone+%7C+ESP32)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aswin-Das&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Aswin-Das)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aswin-Das&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/aswin8785)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswindas85/)
 [![Email](https://img.shields.io/badge/Email-aswin8785%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aswin8785@gmail.com)
 
