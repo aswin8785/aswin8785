@@ -258,7 +258,7 @@ class AswinDasE:
 
 *"Build systems that work when it matters most."* ⚙️
 
-📫 Reach me: **aswin8785@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/aswin-das) | 📍 Tamil Nadu, India
+📫 Reach me: **aswin8785@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/aswindas85/) | 📍 Tamil Nadu, India
 
 </div>
 
